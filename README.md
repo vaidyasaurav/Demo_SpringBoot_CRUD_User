@@ -17,7 +17,7 @@ Installation
 Clone the repo
 sh
 Copy code
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/vaidyasaurav/your_repo.git
 Install NPM packages
 sh
 Copy code
