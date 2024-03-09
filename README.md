@@ -17,7 +17,7 @@ Installation
 Clone the repo
 sh
 Copy code
-git clone https://github.com/vaidyasaurav/your_repo.git
+git clone https://github.com/vaidyasaurav/Demo_SpringBoot_CRUD_User.git
 Install NPM packages
 sh
 Copy code
